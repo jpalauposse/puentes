@@ -1,0 +1,17 @@
+main{
+  background-image: url('../images/background.jpg');
+
+}
+.principal{
+  margin-bottom: 0rem;
+}
+.nuestrosservicios{
+  padding-bottom: 2rem;
+}
+footer{
+  display: flex;
+  justify-content: space-between;
+}
+.javier{
+align-content: flex-end;
+}
