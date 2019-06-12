@@ -4,14 +4,13 @@ main{
 }
 .principal{
   margin-bottom: 0rem;
+  background-color: white;
 }
 .nuestrosservicios{
   padding-bottom: 2rem;
 }
-footer{
+.pie{
   display: flex;
   justify-content: space-between;
-}
-.javier{
-align-content: flex-end;
+  margin-bottom: 0px;
 }
